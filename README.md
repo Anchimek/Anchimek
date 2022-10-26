@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there! 👋 </h3>
 
-<p align="center"> I'm Kuba, a self-motivated tech enthusiast and Junior Frontend Developer. </p>
+<p align="center"> I'm Kuba, a self-motivated tech enthusiast and Frontend Developer. </p>
 
 <p align="center"> 📝 <b>commercial:</b> https://ewaminczewska.pl |      🌱 <b>building:</b>    3rd commercial project    | ✉️ <b>email:</b> jakub.anchimowicz@gmail.com </p>
 
