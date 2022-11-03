@@ -27,5 +27,5 @@
 <a href="https://react-redux.js.org/" title="redux"><img src="icons/redux.png" /></a>
 
 ## Currently working on
-I'm acutaly working on a second commercial project and learning advanced topics in React.
+I'm acutaly working at third commercial project and learning advanced topics in React.
 
