@@ -16,6 +16,7 @@
 <a href="https://github.com" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/sass.png" /></a>
 <a href="https://pl.wikipedia.org/wiki/ECMAScript" title="es6"><img src="icons/es6.png" /></a>
+<a href="https://reactrouter.com/" title="Router"><img src="icons/router.png" /></a>
 
 ## Tools 
 <a href="https://code.visualstudio.com/" title="VSC"><img src="icons/vsc.png" /></a>
@@ -23,7 +24,6 @@
 <a href="https://www.adobe.com/pl/products/xd.html" title="adobe"><img src="icons/xd.png" /></a>
 
 ## Currently learning
-<a href="https://reactrouter.com/" title="Router"><img src="icons/router.png" /></a>
 <a href="https://react-redux.js.org/" title="redux"><img src="icons/redux.png" /></a>
 
 ## Currently working on
