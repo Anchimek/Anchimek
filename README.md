@@ -17,6 +17,8 @@
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/sass.png" /></a>
 <a href="https://pl.wikipedia.org/wiki/ECMAScript" title="es6"><img src="icons/es6.png" /></a>
 <a href="https://reactrouter.com/" title="Router"><img src="icons/router.png" /></a>
+<a href="https://tailwindcss.com/" title="Tailwind"><img src="icons/tailwind.png" /></a>
+<a href="https://vitejs.dev/" title="Vitejs"><img src="icons/vite.jpg" /></a>
 
 ## Tools 
 <a href="https://code.visualstudio.com/" title="VSC"><img src="icons/vsc.png" /></a>
